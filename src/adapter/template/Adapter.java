@@ -1,6 +1,6 @@
 package adapter.template;
 
-public class Adapter implements Target {
+public class Adapter implements IAdapter {
     private Adaptee adaptee;
 
     public Adapter(Adaptee adaptee) {

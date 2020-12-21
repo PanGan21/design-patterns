@@ -1,5 +1,5 @@
 package adapter.template;
 
-public interface Target {
+public interface IAdapter {
     void request();
 }
