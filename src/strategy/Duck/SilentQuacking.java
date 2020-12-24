@@ -1,4 +1,4 @@
-package strategy;
+package strategy.duck;
 
 public class SilentQuacking implements QuackBehavior {
     @Override

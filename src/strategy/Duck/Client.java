@@ -1,4 +1,4 @@
-package strategy;
+package strategy.duck;
 
 public class Client {
     public static void main(String[] args) {
